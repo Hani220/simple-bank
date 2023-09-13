@@ -1,0 +1,122 @@
+[
+  {
+    "name": "afj",
+    "phone_number": "2555",
+    "email": "asfdaa",
+    "gender": "adaa",
+    "age": 0,
+    "city": "adada",
+    "balance": 10.0,
+    "password": "1234"
+  },
+  {
+    "name": "23",
+    "phone_number": "22",
+    "email": "22",
+    "gender": "22",
+    "age": 22,
+    "city": "22",
+    "balance": 90.0,
+    "password": "22"
+  },
+  {
+    "name": "ugg",
+    "phone_number": "022",
+    "email": "jj",
+    "gender": "2joj",
+    "age": 22,
+    "city": "';",
+    "password": "0223"
+  },
+  {
+    "name": "Zyad",
+    "phone_number": "01002548755",
+    "email": "zyad02@gmail.com",
+    "gender": "Other",
+    "age": 21,
+    "city": "giza",
+    "balance": 9101.0,
+    "password": "0102"
+  },
+  {
+    "name": "mazen",
+    "phone_number": "202020",
+    "email": "rrqrq",
+    "gender": "male",
+    "age": 22,
+    "city": "dakar",
+    "balance": 915.0,
+    "password": "00000"
+  },
+  {
+    "name": "domyakky",
+    "phone_number": "012354855",
+    "email": "domdom22@gmail.com",
+    "gender": "male",
+    "age": 22,
+    "city": "damitta",
+    "balance": 23256.0,
+    "password": "0011"
+  },
+  {
+    "name": "ggu",
+    "phone_number": "545",
+    "email": "kuyj",
+    "gender": "yjt",
+    "age": 12,
+    "city": "hyrf",
+    "balance": 546.0,
+    "password": "1234"
+  },
+  {
+    "name": "ZIad",
+    "phone_number": "2458777",
+    "email": "kfeuwgrwg",
+    "gender": "male",
+    "age": 20,
+    "city": "giza",
+    "balance": 390.0,
+    "password": "123"
+  },
+  {
+    "name": "dhefke",
+    "phone_number": "edq",
+    "email": "dewefwefwe",
+    "gender": "wfwfw",
+    "age": "wewfe",
+    "city": "weefw",
+    "password": "000000",
+    "balance": 0
+  },
+  {
+    "name": "boda",
+    "phone_number": "02123233",
+    "email": "boda22@gmail.com",
+    "gender": "male",
+    "age": "22",
+    "city": "giza",
+    "username": "boda",
+    "password": "00000",
+    "balance": 0
+  },
+  {
+    "name": "mani",
+    "phone_number": "0215555",
+    "email": "wjjhshah",
+    "gender": "wss",
+    "age": 20,
+    "city": "san",
+    "balance": 22.0,
+    "password": "0033"
+  },
+  {
+    "name": "ahmed",
+    "phone_number": "023555552",
+    "email": "ekhbqehfqvh@gmail.com",
+    "gender": "male",
+    "age": 22,
+    "city": "giza",
+    "balance": 4699.0,
+    "password": "1111"
+  }
+]
